@@ -280,9 +280,9 @@ class Home extends React.Component {
                     <div className="row">
                         <div className="col-lg-7 col-xxl-6 mb-xxl-5 mt-0 mt-lg-5">
                            
-                            <h1 className="display-5 lh-1">Finding the Dream</h1>
-                            <h2 className="display-6 mb-4">for 
-                                <span className="text-primary position-relative">Every Owner
+                            <h1 className="display-5 lh-1">Construindo  </h1>
+                            <h2 className="display-6 mb-4">seus 
+                                <span className="text-primary position-relative"> Sonhos
                                     
                                     <span className="position-absolute bottom-0 start-0 mb-n2 d-none d-sm-flex">
                                         <svg className="mt-auto fill-primary" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="100%" height="18px">
@@ -1094,9 +1094,9 @@ class Home extends React.Component {
                 <div className="container position-relative z-index-n1 mt-0 mt-lg-5 mt-xl-0">
                     <div className="row justify-content-xl-end">
                         <div className="col-xl-7">
-                            <h4 className="mb-3 font-base">Our Partners</h4>
+                            <h4 className="mb-3 font-base"></h4>
                             <div className="row">
-                                <div className="col-md-12">
+                                {/* <div className="col-md-12">
                                     
                                     <div className="tiny-slider arrow-round">
                                         <div className="tiny-slider-inner" data-arrow="false" data-dots="false" data-gutter="80" data-items-lg="4" data-items-sm="2" data-autoplay="3800">
@@ -1112,7 +1112,7 @@ class Home extends React.Component {
                                         </div>
                                     </div>
                                     
-                                </div>  
+                                </div>   */}
                             </div>
                         </div>
                     </div>
@@ -1120,7 +1120,7 @@ class Home extends React.Component {
                 
             </section>
             
-            <section>
+            {/* <section>
                 <div className="container">
                     <div className="row">
                         
@@ -1188,9 +1188,9 @@ class Home extends React.Component {
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> */}
             
-            <section className="bg-light position-relative">
+            {/* <section className="bg-light position-relative">
                 
                 <figure className="d-none d-xxl-block position-absolute top-0 start-0 ms-n7">
                     <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" width="350px" height="350px">
@@ -1252,13 +1252,13 @@ class Home extends React.Component {
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> */}
             
-            <section className="pt-5">
+            <section className="bg-light pt-5">
                 <div className="container">
                    
                     <div className="text-center">
-                        <h2>Latest Properties</h2>
+                        <h2>Imóveis</h2>
                         <p>A pleasure exertion if believed provided to all led out world this music while asked</p>
                     </div>
 
